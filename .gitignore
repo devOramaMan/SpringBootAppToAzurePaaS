@@ -1,1 +1,5 @@
 env.sh
+azure-spring-workshop/mvnw
+azure-spring-workshop/mvnw.cmd
+azure-spring-workshop/.mvn/wrapper/maven-wrapper.properties
+azure-spring-workshop/.gitattributes
