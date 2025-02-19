@@ -201,7 +201,10 @@ curl --header "Content-Type: application/json" \
 --data '{"description":"configuration","details":"congratulations, you have set up your Spring Boot application correctly!","done":true}' \
 http://127.0.0.1:8080/
 ```
-
+Success result
+```bash
+{"id":1,"description":"configuration","details":"congratulations, you have set up your Spring Boot application correctly!","done":true}
+```
 ## Clean up resources when done
 ```bash
 az group delete --name $AZ_RESOURCE_GROUP
